@@ -12,7 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+**Marija Triukaite**
 ## Header 2
+Welcome to my digital CV! I hope you enjoy reading it and find the skills I have relevant to the job I am applying for!
 ### Header 3
 
 - Bulleted
